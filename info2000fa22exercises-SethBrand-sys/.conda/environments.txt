@@ -1,0 +1,4 @@
+C:\Users\sethb\miniconda3
+C:\Users\sethb\miniconda3\envs\python2
+C:\Users\sethb\miniconda3\envs\exercise_conda_a
+C:\Users\sethb\miniconda3\envs\exercise_conda_b
